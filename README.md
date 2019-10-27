@@ -1,1 +1,1 @@
-# hcode
+# This is my HCode files when I study the PHP course. I would like to learn PHP.
